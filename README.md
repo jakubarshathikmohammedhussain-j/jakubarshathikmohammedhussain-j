@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=MOHAMMED+HUSSAIN+J;TECHNOLOGY+STRATEGY+CONSULTANT;ARCHITECTING+SYSTEMS+IN+THE+CITADEL" alt="Typing SVG" />
 
   <p align="center">
-    <b style="color:#FF007F; font-size: 16px;">FEUDAL ARCHITECTURE MEETS ENTERPRISE A.I. & ANALYTICS</b>
+    <b style="color:#FF007F; font-size: 16px;">DETERMINISTIC ARCHITECTURE MEETS ENTERPRISE A.I. & ANALYTICS</b>
   </p>
 
   <!-- Citadel Visitor Counter -->
