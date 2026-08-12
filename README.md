@@ -16,19 +16,19 @@
   <!-- Futuristic Badge Links -->
   <a href="https://mohammedhussain-j-mba.framer.website/">
     <img src="https://img.shields.io/badge/THE_PORTFOLIO-0D0D15?style=for-the-badge&logo=framer&logoColor=FF007F&borderColor=FF007F" alt="Portfolio"/>
-  </a> <!--[span_0](start_span)[span_0](end_span)-->
+  </a> 
   <a href="https://www.linkedin.com/in/mohammedhussainj">
     <img src="https://img.shields.io/badge/THE_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> <!--[span_1](start_span)[span_1](end_span)-->
-  <img src="https://img.shields.io/badge/THE_CITADEL-Chennai%2C_India-FF007F?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/> <!--[span_2](start_span)[span_2](end_span)-->
+  </a> 
+  <img src="https://img.shields.io/badge/THE_CITADEL-Chennai%2C_India-FF007F?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/> 
 
 </div>
 
 <br/>
 
-> ⚔️ *"A spreadsheet never bled, and a PowerPoint slide never missed a quota."* <!--[span_3](start_span)[span_3](end_span)-->
+> ⚔️ *"A spreadsheet never bled, and a PowerPoint slide never missed a quota."* 
 > 
-> *In the modern corporate battlespace, theoretical strategy falls apart without flawless operational execution. I build systems that survive the trenches.* <!--[span_4](start_span)[span_4](end_span)-->
+> *In the modern corporate battlespace, theoretical strategy falls apart without flawless operational execution. I build systems that survive the trenches.* 
 
 ---
 
@@ -36,11 +36,13 @@
 
 ```yaml
 [SYSTEM HUD]: BLOSSOM-PROTOCOL ONLINE
-OPERATIVE: Mohammed Hussain J[span_5](start_span)[span_5](end_span)
-RANK: MBA Candidate (Analytics & A.I. Management @ Anna University)[span_6](start_span)[span_6](end_span)
-CURRENT DEPLOYMENT: Logistics Operations & Automation Intern @ JP Freight Forwarders[span_7](start_span)[span_7](end_span)
-TACTICAL FOCUS: Technology Strategy, Technical System Architecture & AI Governance[span_8](start_span)[span_8](end_span)
-MISSION DIRECTIVE: Transforming ambiguous enterprise noise into high-impact, risk-mitigated architecture.[span_9](start_span)[span_9](end_span)
+OPERATIVE: Mohammed Hussain J
+RANK: MBA Candidate (Analytics & A.I. Management @ Anna University)
+CURRENT DEPLOYMENT: Logistics Operations & Automation Intern @ JP Freight Forwarders
+TACTICAL FOCUS: Technology Strategy, Technical System Architecture & AI Governance
+MISSION DIRECTIVE: Transforming ambiguous enterprise noise into high-impact, risk-mitigated architecture.
+```
+
 <div align="center">
 
 <!-- CINEMATIC HEADER FX -->
@@ -62,9 +64,9 @@ MISSION DIRECTIVE: Transforming ambiguous enterprise noise into high-impact, ris
 
 ---
 
-> **[SYS.LOG]** Initialize Audio Matrix... **COMPLETE**
-> **[SYS.LOG]** Bypass background OS task-killers... **COMPLETE**
-> **[SYS.LOG]** Establishing neural link to Google Gemini Core... **COMPLETE**
+> **[SYS.LOG]** Initialize Audio Matrix... **COMPLETE**<br>
+> **[SYS.LOG]** Bypass background OS task-killers... **COMPLETE**<br>
+> **[SYS.LOG]** Establishing neural link to Google Gemini Core... **COMPLETE**<br>
 > **[SYS.LOG]** Welcome back, Boss. All diagnostics are green.
 
 ---
@@ -123,3 +125,4 @@ if (lower.includes('bleed protocol')) {
     executeProtocol('[https://bleed-protocol.streamlit.app/](https://bleed-protocol.streamlit.app/)');
     return; // AI Core Bypassed
 }
+```
