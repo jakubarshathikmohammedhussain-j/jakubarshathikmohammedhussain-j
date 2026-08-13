@@ -122,7 +122,13 @@ To conserve API quota and eliminate cloud latency for critical operations, the r
 ```javascript
 // Example: Instant Local Intercept Matrix
 if (lower.includes('bleed protocol')) {
-    executeProtocol('[https://bleed-protocol.streamlit.app/](https://bleed-protocol.streamlit.app/)');
+    executeProtocol('https://bleed-protocol.streamlit.app/');
+    return; // AI Core Bypassed
+}
+if (lower.includes('scam protocol')) {
+    executeProtocol('https://scam-protocol.streamlit.app/');
     return; // AI Core Bypassed
 }
 ```
+## ▧ LICENSE
+Copyright (c) 2026 Mohammed Hussain. All Rights Reserved.
